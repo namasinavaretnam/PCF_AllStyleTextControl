@@ -1,0 +1,24 @@
+.pcfDefault {
+    background-color: white;
+}
+.pcfWidth90 {
+    width: 90% ;
+}
+.pcfWidth60 {
+    width: 60% ;
+}
+.pcfWidth30 {
+    width: 30% ;
+}
+
+.pcfBorderDouble {
+    border: double;
+}
+
+.pcfBorderSolid {
+    border: solid;
+}
+
+.pcfBorderDotted {
+    border: dotted;
+}
